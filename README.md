@@ -1,4 +1,4 @@
-![CI/CD](https://github.com/arshad2K8/sample-arsh-react/workflows/ci.yml/badge.svg)
+![CI/CD](https://github.com/arshad2K8/sample-arsh-react/actions/workflows/ci.yml/badge.svg)
 
 # Getting Started with Create React App
 
